@@ -1,0 +1,2 @@
+# nevkartyak
+Névkártyák kollaborációs projekt
